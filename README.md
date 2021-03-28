@@ -4,8 +4,9 @@ Project Gutenberg produces catalog download bundles that contains Resource Descr
 
 RDF is an XML-Based format.
 
-Follow below steps to download data 
------------------------------------
+## Follow below steps to download data
+
+mkdir data ( adjacent to databases dir )
 
 cd data
 
